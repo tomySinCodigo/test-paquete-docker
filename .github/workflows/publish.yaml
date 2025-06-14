@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/test-paquete-docker:latest
+          tags: ghcr.io/tomysincodigo/test-paquete-docker:latest
